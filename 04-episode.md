@@ -1,5 +1,5 @@
 ---
-title: "Using Markdown"
+title: "Zotero and text editors"
 teaching: 10
 exercises: 2
 ---
@@ -12,9 +12,10 @@ exercises: 2
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Explain how to use markdown with The Carpentries Workbench
-- Demonstrate how to include pieces of code, figures, and nested challenge blocks
-
+- Know how to integrate zotero into your own usual workflow, with your favourite text editor
+- Importing bibliographic data
+- Placing text references
+- Backup
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Introduction
