@@ -58,11 +58,11 @@ contact: ragnhild.sundsbak@ub.uio.no
 
 # Order of episodes in your lesson 
 episodes: 
-    [Preparation and installation 30 minutes before start]
-    [Welcome to workshop, code of conduct, practical information, curriculum and plan for the day]
-    [Introduction to Zotero, history, what Zotero can be used for, suitable for open science practices]
-    [Basic use of citation and referencing in some common text editors. Importing bibliographic data. Backup]
-    [Making your own database: Use of Zotero when performing searches in multiple databases/archives/catalogues]
+  1.  [Preparation and installation 30 minutes before start]
+  1.  [Welcome to workshop, code of conduct, practical information, curriculum and plan for the day]
+  1.  [Introduction to Zotero, history, what Zotero can be used for, suitable for open science practices]
+  1. [Basic use of citation and referencing in some common text editors. Importing bibliographic data. Backup]
+  1.  [Making your own database: Use of Zotero when performing searches in multiple databases/archives/catalogues]
     # Import into your own Group and organize in collections. Get overview over the literature of your subject.
     [Deduplication basic and (advanced with R), or through databases]
     [Annotation and social reading with Hypothesis]
