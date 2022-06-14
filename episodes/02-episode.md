@@ -1,12 +1,15 @@
 ---
-title: "Preparation and installation"
+title: "Welcome and plan for the day"
 teaching: 10
 exercises: 2
 ---
 30 minutes before start
 
 
-:::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::: objectives
+- Know where the toilets, fire extinguisher and the code of conduct 
+::::::::::::::::::::::::::::::::::::
+
 
 ## Introduction
 
