@@ -1,5 +1,5 @@
 ---
-title: "Using Markdown"
+title: "Preparation and installation"
 teaching: 10
 exercises: 2
 ---
@@ -12,8 +12,8 @@ exercises: 2
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Explain how to use markdown with The Carpentries Workbench
-- Demonstrate how to include pieces of code, figures, and nested challenge blocks
+- Have all the installations ready on your PC/ Mac
+- Be technically ready to start working with Zotero
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
