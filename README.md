@@ -1,5 +1,8 @@
 # The Carpentries Workbench Template Markdown Lesson
 
+Url for the Zoterocourse:
+https://rasundsbak.github.io/zoterokurs/
+
 This lesson is a template lesson that uses [The Carpentries Workbench][workbench].
 
 To get started using this template, visit https://github.com/carpentries/workbench-template-md/generate
