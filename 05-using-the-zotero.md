@@ -1,19 +1,18 @@
 ---
-title: "Preparation and installation"
-teaching: 10
-exercises: 2
+title: "Using Zotero"
+teaching: 0
+exercises: 0
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- How do you write a lesson using Markdown and `{sandpaper}`?
+- TODO
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Have all the installations ready on your PC/ Mac
-- Be technically ready to start working with Zotero
+- TODO
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 

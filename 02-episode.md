@@ -1,21 +1,15 @@
 ---
-title: "Preparation and installation"
+title: "Welcome and plan for the day"
 teaching: 10
 exercises: 2
 ---
+30 minutes before start
 
-:::::::::::::::::::::::::::::::::::::: questions 
-
-- How do you write a lesson using Markdown and `{sandpaper}`?
-
-::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
+- Know where the toilets, fire extinguisher and the code of conduct 
+::::::::::::::::::::::::::::::::::::
 
-- Have all the installations ready on your PC/ Mac
-- Be technically ready to start working with Zotero
-
-::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Introduction
 
