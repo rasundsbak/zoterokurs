@@ -13,7 +13,7 @@ carpentry: incubator
 title: Zotero course
 
 # Date the lesson was created (this is empty by default)
-created: ~
+created: 2022-06-14
 
 # Comma-separated list of keywords for the lesson
 keywords: software, data, lesson, The Carpentries
@@ -32,7 +32,7 @@ source: https://github.com/carpentries/workbench-template-md
 branch: main
 
 # Who to contact if there are any issues
-contact: team@carpentries.org
+contact: ragnhild.sundsbak@ub.uio.no
 
 # Navigation ------------------------------------------------
 # 
@@ -45,6 +45,8 @@ contact: team@carpentries.org
 # episodes:
 # - introduction.md
 # - first-steps.md
+#
+#
 # 
 # learners:
 # - setup.md
@@ -57,7 +59,21 @@ contact: team@carpentries.org
 # - another-learner.md
 
 # Order of episodes in your lesson 
-episodes: 
+# episodes: 
+ #   [Preparation and installation 30 minutes before start]()
+ #   [Welcome to workshop, code of conduct, practical information, curriculum and plan for the day]
+ #   [Introduction to Zotero, history, what Zotero can be used for, suitable for open science practices]
+ #   [Basic use of citation and referencing in some common text editors. Importing bibliographic data. Backup]
+ #   [Making your own database: Use of Zotero when performing searches in multiple databases/archives/catalogues]
+ #   Import into your own Group and organize in collections. Get overview over the literature of your subject.
+ #   [Deduplication basic and (advanced with R), or through databases]
+ #   [Annotation and social reading with Hypothesis]
+ #   [Set up student groups or research groups, administration and organisation]
+ #   [Advanced machine reading with saved searches, advanced search, organising with tags, colors, emoji]
+ #   [Use with Ipad, iphone, android]
+ #   [Connecting to Markdown, LaTeX, Overleaf, Obsidian, Google Docs, Libre Office]
+ #   [Special plugins: Zutilo, PDF translate, Better Notes for Zotero]
+
 
 # Information for Learners
 learners: 
