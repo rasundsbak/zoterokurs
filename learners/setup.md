@@ -28,7 +28,8 @@ systems (and potentially add more, e.g. online setup) in the solutions blocks.
 
 [Download software] (https://www.zotero.org/)
 
-[Download textfile](https://uio-my.sharepoint.com/:t:/r/personal/ragnhsu_uio_no/Documents/Deledokumenter/LoremIpsum.txt?csf=1&web=1&e=aoVBTr)
+
+[Download textfile] (https://uio-my.sharepoint.com/:t:/r/personal/ragnhsu_uio_no/Documents/Deledokumenter/LoremIpsum.txt?csf=1&web=1&e=aoVBTr)
 
 :::::::::::::::::::::::::
 
@@ -39,7 +40,8 @@ systems (and potentially add more, e.g. online setup) in the solutions blocks.
 
 [Download software] (https://www.zotero.org/)
 
-[Download textfile](https://uio-my.sharepoint.com/:t:/r/personal/ragnhsu_uio_no/Documents/Deledokumenter/LoremIpsum.txt?csf=1&web=1&e=aoVBTr)
+ 
+[Download textfile] (https://uio-my.sharepoint.com/:t:/r/personal/ragnhsu_uio_no/Documents/Deledokumenter/LoremIpsum.txt?csf=1&web=1&e=aoVBTr)
 
 :::::::::::::::::::::::::
 
@@ -51,7 +53,8 @@ systems (and potentially add more, e.g. online setup) in the solutions blocks.
 
 [Download software] (https://www.zotero.org/)
 
-[Download textfile](https://uio-my.sharepoint.com/:t:/r/personal/ragnhsu_uio_no/Documents/Deledokumenter/LoremIpsum.txt?csf=1&web=1&e=aoVBTr)
+
+[Download textfile] (https://uio-my.sharepoint.com/:t:/r/personal/ragnhsu_uio_no/Documents/Deledokumenter/LoremIpsum.txt?csf=1&web=1&e=aoVBTr)
 
 :::::::::::::::::::::::::
 
