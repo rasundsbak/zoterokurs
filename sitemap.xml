@@ -4,7 +4,13 @@
     <loc>https://carpentries.github.io/workbench-template-md/01-introduction.html</loc>
   </url>
   <url>
+    <loc>https://carpentries.github.io/workbench-template-md/01-preparation-installation.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries.github.io/workbench-template-md/02-episode.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/workbench-template-md/02-welcome-plan-for-the-day.html</loc>
   </url>
   <url>
     <loc>https://carpentries.github.io/workbench-template-md/03-episode.html</loc>
@@ -49,7 +55,13 @@
     <loc>https://carpentries.github.io/workbench-template-md/instructor/01-introduction.html</loc>
   </url>
   <url>
+    <loc>https://carpentries.github.io/workbench-template-md/instructor/01-preparation-installation.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries.github.io/workbench-template-md/instructor/02-episode.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/workbench-template-md/instructor/02-welcome-plan-for-the-day.html</loc>
   </url>
   <url>
     <loc>https://carpentries.github.io/workbench-template-md/instructor/03-episode.html</loc>
