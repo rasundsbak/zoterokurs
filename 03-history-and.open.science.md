@@ -1,5 +1,5 @@
 ---
-title: "Zotero history and open science practices"
+title: "03 Zotero history and open science practices"
 teaching: 10
 exercises: 2
 ---
