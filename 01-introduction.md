@@ -46,19 +46,21 @@ associated with the lessons. They appear in the "Instructor View"
 
 ## Challenge 1: Can you do it?
 
-What is the output of this command?
 
-```r
-paste("This", "new", "lesson", "looks", "good")
-```
+
+How did you organize your references the last time you wrote an assignment.
+
+a) Endnore
+
+b) I did it manually
+
+c) Zotero
 
 :::::::::::::::::::::::: solution 
 
 ## Output
  
-```output
-[1] "This new lesson looks good"
-```
+the right answer should be c) Zotero
 
 :::::::::::::::::::::::::::::::::
 
