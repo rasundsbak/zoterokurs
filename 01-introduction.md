@@ -1,5 +1,5 @@
 ---
-title: "01 Preparation and installation"
+title: "Preparation and installation"
 teaching: 10
 exercises: 2
 ---
