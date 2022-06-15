@@ -45,7 +45,12 @@ associated with the lessons. They appear in the "Instructor View"
 
 ## Challenge 1: Can you do it?
 
-What is the output of this command?
+Did you ever use a reference manager integrated into a text editor
+
+a) no, I used only the reference manager itself
+
+b) I Use Word and Zotero. I am an advanced user
+
 
 ```r
 paste("This", "new", "lesson", "looks", "good")
@@ -56,7 +61,7 @@ paste("This", "new", "lesson", "looks", "good")
 ## Output
  
 ```output
-[1] "This new lesson looks good"
+[1] The answer will soon be: b) I Use Word and Zotero. I am an advanced user
 ```
 
 :::::::::::::::::::::::::::::::::
