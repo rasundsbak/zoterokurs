@@ -26,7 +26,8 @@ systems (and potentially add more, e.g. online setup) in the solutions blocks.
 
 ### Windows
 
-Use PuTTY
+https://www.zotero.org/
+[Download textfile](https://uio-my.sharepoint.com/:t:/r/personal/ragnhsu_uio_no/Documents/Deledokumenter/LoremIpsum.txt?csf=1&web=1&e=aoVBTr)
 
 :::::::::::::::::::::::::
 
@@ -34,7 +35,8 @@ Use PuTTY
 
 ### MacOS
 
-Use Terminal.app
+https://www.zotero.org/
+[Download textfile](https://uio-my.sharepoint.com/:t:/r/personal/ragnhsu_uio_no/Documents/Deledokumenter/LoremIpsum.txt?csf=1&web=1&e=aoVBTr)
 
 :::::::::::::::::::::::::
 
@@ -43,7 +45,8 @@ Use Terminal.app
 
 ### Linux
 
-Use Terminal
+https://www.zotero.org/
+[Download textfile](https://uio-my.sharepoint.com/:t:/r/personal/ragnhsu_uio_no/Documents/Deledokumenter/LoremIpsum.txt?csf=1&web=1&e=aoVBTr)
 
 :::::::::::::::::::::::::
 
