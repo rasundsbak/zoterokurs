@@ -1,5 +1,5 @@
 ---
-title: "Welcome and plan for the day"
+title: "02 Welcome and plan for the day"
 teaching: 10
 exercises: 2
 ---
