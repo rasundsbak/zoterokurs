@@ -31,6 +31,9 @@ systems (and potentially add more, e.g. online setup) in the solutions blocks.
 
 [Download textfile](https://uio-my.sharepoint.com/:t:/r/personal/ragnhsu_uio_no/Documents/Deledokumenter/LoremIpsum.txt?csf=1&web=1&e=aoVBTr)
 
+
+[Download metadata](https://uio-my.sharepoint.com/:u:/g/personal/ragnhsu_uio_no/EREBPGGtl3pChN7yHXiGh8UBewb5REPVZyjTN_MuR8XYRA?email=palml%40uio.no&e=htawKB)
+
 :::::::::::::::::::::::::
 
 :::::::::::::::: solution
@@ -42,6 +45,9 @@ systems (and potentially add more, e.g. online setup) in the solutions blocks.
 
  
 [Download textfile](https://uio-my.sharepoint.com/:t:/r/personal/ragnhsu_uio_no/Documents/Deledokumenter/LoremIpsum.txt?csf=1&web=1&e=aoVBTr)
+
+
+[Download metadata](https://uio-my.sharepoint.com/:u:/g/personal/ragnhsu_uio_no/EREBPGGtl3pChN7yHXiGh8UBewb5REPVZyjTN_MuR8XYRA?email=palml%40uio.no&e=htawKB)
 
 :::::::::::::::::::::::::
 
@@ -55,6 +61,9 @@ systems (and potentially add more, e.g. online setup) in the solutions blocks.
 
 
 [Download textfile](https://uio-my.sharepoint.com/:t:/r/personal/ragnhsu_uio_no/Documents/Deledokumenter/LoremIpsum.txt?csf=1&web=1&e=aoVBTr)
+
+
+[Download metadata](https://uio-my.sharepoint.com/:u:/g/personal/ragnhsu_uio_no/EREBPGGtl3pChN7yHXiGh8UBewb5REPVZyjTN_MuR8XYRA?email=palml%40uio.no&e=htawKB)
 
 :::::::::::::::::::::::::
 
