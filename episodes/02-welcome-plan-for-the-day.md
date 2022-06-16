@@ -1,15 +1,21 @@
 ---
-title: "02 Welcome and plan for the day"
+title: "02 welcome and plan for the day"
 teaching: 10
 exercises: 2
 ---
-30 minutes before start
 
+:::::::::::::::::::::::::::::::::::::: questions 
+
+- How do you write a lesson using Markdown and `{sandpaper}`?
+
+::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
-- Know where the toilets, fire extinguisher and the code of conduct 
-::::::::::::::::::::::::::::::::::::
 
+- Have all the installations ready on your PC/ Mac
+- Be technically ready to start working with Zotero
+
+::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Introduction
 
@@ -40,19 +46,21 @@ associated with the lessons. They appear in the "Instructor View"
 
 ## Challenge 1: Can you do it?
 
-What is the output of this command?
 
-```r
-paste("This", "new", "lesson", "looks", "good")
-```
+
+How did you organize your references the last time you wrote an assignment.
+
+a) Endnore
+
+b) I did it manually
+
+c) Zotero
 
 :::::::::::::::::::::::: solution 
 
 ## Output
  
-```output
-[1] "This new lesson looks good"
-```
+the right answer should be c) Zotero
 
 :::::::::::::::::::::::::::::::::
 
