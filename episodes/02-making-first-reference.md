@@ -13,8 +13,11 @@ Title: Behave: The Biology of Humans at Our Best and Worst
 Format: Hardcover – Illustrated, May 2, 2017
 by Robert M. Sapolsky (Author)
 
-**Making the system work**
-Open your text editor. Store the document at a relevant storage space for your local insitiution such as OneDrive or other. Store at your local desktop (if you own it)
+**Downloading references from researhc databases**
+Download references from Some of your favourite research databases such as Web of Science, Scopus and PubMed. If you do not have your own academic problem, you may ise this one:
+
+"Today, many people in the world live with water scarcity. How is this problem solved in varouis regions, and what has the scientific community suggested in previous research?"
+
 
 
 
