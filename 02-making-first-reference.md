@@ -4,6 +4,23 @@ teaching: 10
 exercises: 2
 ---
 
+**Making a manual reference**
+In zotero desktop, choose file --> New item --> Book
+
+Insert the data for this book:
+
+Title: Behave: The Biology of Humans at Our Best and Worst 
+Format: Hardcover – Illustrated, May 2, 2017
+by Robert M. Sapolsky (Author)
+
+**Making the system work**
+Open your text editor. Store the document at a relevant storage space for your local insitiution such as OneDrive or other. Store at your local desktop (if you own it)
+
+
+
+
+
+
 :::::::::::::::::::::::::::::::::::::: questions 
 
 - How do you write a lesson using Markdown and `{sandpaper}`?
