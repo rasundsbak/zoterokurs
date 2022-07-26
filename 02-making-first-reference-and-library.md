@@ -26,6 +26,8 @@ Download references from some of your favourite research databases such as Web o
 
 Try to downlowd at least 500 references directly to your new group. Find the export solution for the relevant database. We recommend the RIS format for Zotero. Open/ import the file in Zotero. Put the references in the group you made.
 
+Look at your references, mark 20 of them, and use the function "find pdf". use "fn lock" to mark several references, for instance 10 --> right click --> Find available pdfs. This solution will work better it you are on a university campus with subscriptions to academic journals. If using it from the home office, it will import open access resources.
+
 :::::::::::::::::::::::::::::::::::::: questions 
 
 - How do you write a lesson using Markdown and `{sandpaper}`?
