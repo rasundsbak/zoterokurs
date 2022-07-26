@@ -2,7 +2,7 @@
 title: "02 welcome and plan for the day"
 teaching: 10
 exercises: 2
----
+---1
 
 **Making a manual reference**
 In zotero desktop, choose file --> New item --> Book
