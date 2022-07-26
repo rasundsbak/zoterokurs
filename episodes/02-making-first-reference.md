@@ -13,16 +13,18 @@ Title: Behave: The Biology of Humans at Our Best and Worst
 Format: Hardcover – Illustrated, May 2, 2017
 by Robert M. Sapolsky (Author)
 
+**Making a Library**
+Go to Zotero and klick New library--> New Group. This will send you to the Zotero cloud solution. Make your own username and password. Find an adeqate group name, and go back to the desktop to see how it now looks.
+
+**Syncing**
+Go to Edit--> Preferences --> Sync, and enter the data for your account. Check that the syncing works. You should now have a new group in your library.
+
 **Downloading references from researhc databases**
-Download references from Some of your favourite research databases such as Web of Science, Scopus and PubMed. If you do not have your own academic problem, you may ise this one:
+Download references from some of your favourite research databases such as Web of Science, Scopus and PubMed. If you do not have your own academic problem, you may ise this one:
 
 "Today, many people in the world live with water scarcity. How is this problem solved in varouis regions, and what has the scientific community suggested in previous research?"
 
-
-
-
-
-
+Try to downlowd at least 500 references directly to your new group. Find the export solution for the relevant database. We recommend the RIS format for Zotero. Open/ import the file in Zotero. Put the references in the group you made.
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
