@@ -3,8 +3,16 @@ title: "01 Preparation and installation"
 teaching: 10
 exercises: 2
 ---
+**Desktop and Zotero Connector**
+Visit Zotero.org and download the relevant Zotero desktop version and connector for your PC, Mac or Linux machine. 
 
-:::::::::::::::::::::::::::::::::::::: questions 
+**Check the functionality**
+After the installation. Check your usual text editor. For Word users: Do you see the tab for Zotero functionality somewhere to the right? If not, see below. Zotero supports the text editors Google Docs, Microsoft Word and Libre Office.
+
+**Installing the Zotero Word Processor Plugins**
+Vitit this site: https://www.zotero.org/support/word_processor_plugin_installation
+
+:::::::::::::::::::::::::::::::::::::: questions
 
 - How do you write a lesson using Markdown and `{sandpaper}`?
 
