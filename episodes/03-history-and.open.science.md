@@ -21,8 +21,7 @@ exercises: 2
 This is a lesson created via The Carpentries Workbench. It is written in
 [Pandoc-flavored Markdown](https://pandoc.org/MANUAL.txt) for static files and
 [R Markdown][r-markdown] for dynamic files that can render code into output. 
-Please refer to the [Introduction to The Carpentries 
-Zotero]([https://www.zotero.org/support/] for full documentation.
+Please refer to the [Zotero]([https://www.zotero.org/support/] for full documentation.
 
 What you need to know is that there are three sections required for a valid
 Carpentries lesson:
