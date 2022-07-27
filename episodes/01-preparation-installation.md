@@ -4,7 +4,8 @@ teaching: 10
 exercises: 2
 ---
 **Desktop and Zotero Connector**
-Visit Zotero.org and download the relevant Zotero desktop version and connector for your PC, Mac or Linux machine. 
+Visit Zotero.org and download the relevant Zotero desktop version and connector for your PC, Mac or Linux machine. wE ALSO PLAN TO USE THE Zutillo connector. You may find it on Github: https://github.com/wshanks/Zutilo
+
 
 **Check the functionality**
 After the installation. Check your usual text editor. For Word users: Do you see the tab for Zotero functionality somewhere to the right? If not, see below. Zotero supports the text editors Google Docs, Microsoft Word and Libre Office.
