@@ -4,7 +4,7 @@ teaching: 10
 exercises: 2
 ---
 **Desktop and Zotero Connector**
-Visit Zotero.org and download the relevant Zotero desktop version and connector for your PC, Mac or Linux machine. wE ALSO PLAN TO USE THE Zutillo connector. You may find it on Github: https://github.com/wshanks/Zutilo
+Visit Zotero.org and download the relevant Zotero desktop version and connector for your PC, Mac or Linux machine.
 
 
 **Check the functionality**
