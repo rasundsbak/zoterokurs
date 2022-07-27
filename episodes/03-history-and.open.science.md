@@ -6,13 +6,13 @@ exercises: 2
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- How do you write a lesson using Markdown and `{sandpaper}`?
+- What is characteristic with open digital science?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Knowing the usefulness of Zotero
+- Knowing how Zotero can ease cooperation in study groups or research groups.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
