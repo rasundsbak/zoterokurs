@@ -1,5 +1,5 @@
 ---
-title: "02 welcome and plan for the day"
+title: "Making the first manual reference and library"
 teaching: 10
 exercises: 2
 ---
@@ -19,8 +19,12 @@ Go to Zotero and klick New library--> New Group. This will send you to the Zoter
 **Syncing**
 Go to Edit--> Preferences --> Sync, and enter the data for your account. Check that the syncing works. You should now have a new group in your library.
 
-**Downloading references from researhc databases**
-Download references from some of your favourite research databases such as Web of Science, Scopus and PubMed. If you do not have your own academic problem, you may ise this one:
+**Download single articles**
+Open this website https://doi.org/10.1016/j.aopr.2022.100065 and click on the zotero icon in your browser. Check that everything is downloaded correctly in the Zotero app, and then cite the source in the text editor, and make a bibliography. 
+Next, open these articles https://doi.org/10.1016/j.aopr.2022.100065 , https://doi.org/10.1038/s41467-022-30091-3 , click on the zotero icon and check everything is correctly downloaded into the Zotero app. The last one we want in the library is a random open access book https://link.springer.com/content/pdf/10.1007/978-94-024-1720-3.pdf , click on the PDF icon where Zotero icon normally are. Check the item in the zotero app.
+
+**Downloading references from research databases**
+Download references from some of your favourite research databases such as Web of Science, Scopus and PubMed. If you do not have your own academic problem, you may use this one:
 
 "Today, many people in the world live with water scarcity. How is this problem solved in varouis regions, and what has the scientific community suggested in previous research?"
 
