@@ -1,5 +1,5 @@
 ---
-title: "02 welcome and plan for the day"
+title: "Mking the first manual reference and library"
 teaching: 10
 exercises: 2
 ---1
