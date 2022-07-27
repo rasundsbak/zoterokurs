@@ -1,8 +1,8 @@
 ---
-title: "Mking the first manual reference and library"
+title: "Making the first manual reference and library"
 teaching: 10
 exercises: 2
----1
+---
 
 **Making a manual reference**
 In zotero desktop, choose file --> New item --> Book
