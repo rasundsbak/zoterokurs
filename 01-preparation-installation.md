@@ -3,8 +3,24 @@ title: "01 Preparation and installation"
 teaching: 10
 exercises: 2
 ---
-**Code of conduct**
-https://rasundsbak.github.io/zoterokurs/CODE_OF_CONDUCT.html
+## Code of Conduct
+
+To make clear what is expected, 
+everyone participating in The Carpentries activities is required to abide by our 
+[Code of Conduct](../CODE_OF_CONDUCT.md). 
+Any form of behaviour to exclude, intimidate, 
+or cause discomfort is a violation of the Code of Conduct. 
+In order to foster a positive and professional learning environment we encourage you to:  
+
+* Use welcoming and inclusive language
+* Be respectful of different viewpoints and experiences
+* Gracefully accept constructive criticism
+* Focus on what is best for the community
+* Show courtesy and respect towards other community members
+
+If you believe someone is violating the Code of Conduct,
+we ask that you report it to The Carpentries Code of Conduct Committee 
+by completing [this form](https://goo.gl/forms/KoUfO53Za3apOuOK2).
 
 **Desktop and Zotero Connector**
 Visit Zotero.org and download the relevant Zotero desktop version and connector for your PC, Mac or Linux machine. We are also going to use Zutillo and SA Accelerator in order to get som overview over our field of research
