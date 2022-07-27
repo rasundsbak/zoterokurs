@@ -3,6 +3,9 @@ title: "01 Preparation and installation"
 teaching: 10
 exercises: 2
 ---
+**Code of conduct**
+https://rasundsbak.github.io/zoterokurs/CODE_OF_CONDUCT.html
+
 **Desktop and Zotero Connector**
 Visit Zotero.org and download the relevant Zotero desktop version and connector for your PC, Mac or Linux machine. We are also going to use Zutillo and SA Accelerator in order to get som overview over our field of research
 
