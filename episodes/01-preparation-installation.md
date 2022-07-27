@@ -4,8 +4,13 @@ teaching: 10
 exercises: 2
 ---
 **Desktop and Zotero Connector**
-Visit Zotero.org and download the relevant Zotero desktop version and connector for your PC, Mac or Linux machine.
+Visit Zotero.org and download the relevant Zotero desktop version and connector for your PC, Mac or Linux machine. We are also going to use Zutillo and SA Accelerator in order to get som overview over our field of research
 
+**Academic preparation**
+In this course we have an academic problem that is used for learning the method: 
+"Today, many people in the world live with water scarcity. How is this problem solved in varouis regions, and what has the scientific community suggested in previous research?"
+
+However, feel free to use your own academic problem in episode 2. You must be able to easily find at least 500 references treating the chosen subject. We do this in order to get an overview over the literature on the chosen subject.
 
 **Check the functionality**
 After the installation. Check your usual text editor. For Word users: Do you see the tab for Zotero functionality somewhere to the right? If not, see below. Zotero supports the text editors Google Docs, Microsoft Word and Libre Office.
