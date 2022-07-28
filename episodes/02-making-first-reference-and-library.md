@@ -24,7 +24,7 @@ Open this website https://doi.org/10.1016/j.aopr.2022.100065 and click on the zo
 Next, open these articles https://doi.org/10.1016/j.aopr.2022.100065 , https://doi.org/10.1038/s41467-022-30091-3 , click on the zotero icon and check everything is correctly downloaded into the Zotero app. The last one we want in the library is a random open access book https://link.springer.com/content/pdf/10.1007/978-94-024-1720-3.pdf , click on the PDF icon where Zotero icon normally are. Check the item in the zotero app.
 
 **Downloading references from research databases**
-There are various for profit databases held in subscriptions by the University Libraries. We reccomend trying these, if you have the possibility. In this course the main focus will be on Open Acess resources. Download references from [Dag Hammarskiöld Library](https://www.un.org/en/library/page/databases), [ScienceOpen.com](https://www.scienceopen.com/) and [Directory of Open Access Journals](https://doaj.org/). If you do not have your own academic problem, you may use this one:
+There are various for profit databases held in subscriptions by the University Libraries. We reccomend trying these, if you have the possibility. In this course the main focus will be on Open Acess resources. Download references from [Dag Hammarskjöld Library](https://www.un.org/en/library/page/databases), [ScienceOpen.com](https://www.scienceopen.com/) and [Directory of Open Access Journals](https://doaj.org/). If you do not have your own academic problem, you may use this one:
 
 "Many people in the world live with water scarcity. How is this problem solved in varouis regions, and what has the scientific community suggested in previous research?"
 
