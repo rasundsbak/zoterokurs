@@ -81,9 +81,9 @@ associated with the lessons. They appear in the "Instructor View"
 
 
 
-How did you organize your references the last time you wrote an assignment.
+How did you organize your references the last time you wrote an assignment?
 
-a) Endnore
+a) Endnote
 
 b) I did it manually
 
