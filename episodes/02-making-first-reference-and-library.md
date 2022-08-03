@@ -24,8 +24,7 @@ Download the following references to Zotero. Check that everything is downloaded
 
 - [Changes of Beclin-1 and ULK1 in retina of mice model in oxygen-inducedretinopathy](https://doi.org/10.1016/j.aopr.2022.100065)
 - [The rapid evolution of lungfish durophagy](https://doi.org/10.1016/j.aopr.2022.100065)
-- [Responsible Innovation : 
-- Business Opportunities and Strategies
+- [Responsible Innovation: Business Opportunities and Strategies
 for Implementation](https://link.springer.com/content/pdf/10.1007/978-94-024-1720-3.pdf)
 
 **Downloading references from research databases**
