@@ -28,7 +28,7 @@ There are various for profit databases held in subscriptions by the University L
 
 "Many people in the world live with water scarcity. How is this problem solved in varouis regions, and what has the scientific community suggested in previous research?"
 
-Try to downlowd at least 500 references directly to your new group. Find the export solution for the relevant database. We recommend the RIS format for Zotero. Open/ import the file in Zotero. Put the references in the group you made.
+You can use other databases, but check the metadata before you decide. Try to downlowd at least 500 references directly to your new group. Find the export solution for the relevant database. We recommend the RIS format for Zotero. Open/ import the file in Zotero. Put the references in the group you made.
 
 Look at your references, mark 20 of them, and use the function "find pdf". use "fn lock" to mark several references, for instance 10 --> right click --> Find available pdfs. This solution will work better it you are on a university campus with subscriptions to academic journals. If using it from the home office, it will import open access resources.
 
