@@ -22,10 +22,10 @@ Go to Edit--> Preferences --> Sync, and enter the data for your account. Check t
 **Download single articles**
 Download the following references to Zotero. Check that everything is downloaded correctly in the Zotero app, and then cite the source in the text editor. Make the bibliography. Note that the last one is a an open access book. Click on the PDF icon where Zotero icon normally are. Check the item in the zotero app. Dod you manage to get all of these into your library?
 
-[Changes of Beclin-1 and ULK1 in retina of mice model in oxygen-inducedretinopathy](https://doi.org/10.1016/j.aopr.2022.100065)
-[The rapid evolution of lungfish durophagy](https://doi.org/10.1016/j.aopr.2022.100065)
-[Responsible Innovation : 
-Business Opportunities and Strategies
+- [Changes of Beclin-1 and ULK1 in retina of mice model in oxygen-inducedretinopathy](https://doi.org/10.1016/j.aopr.2022.100065)
+- [The rapid evolution of lungfish durophagy](https://doi.org/10.1016/j.aopr.2022.100065)
+- [Responsible Innovation : 
+- Business Opportunities and Strategies
 for Implementation](https://link.springer.com/content/pdf/10.1007/978-94-024-1720-3.pdf)
 
 **Downloading references from research databases**
