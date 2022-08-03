@@ -28,11 +28,16 @@ Download the following references to Zotero. Check that everything is downloaded
 for Implementation](https://link.springer.com/content/pdf/10.1007/978-94-024-1720-3.pdf)
 
 **Downloading references from research databases**
-There are various for profit databases held in subscriptions by the University Libraries. We reccomend trying these, if you have the possibility. In this course the main focus will be on Open Acess resources. Download references from [Dag Hammarskjöld Library](https://www.un.org/en/library/page/databases), [ScienceOpen.com](https://www.scienceopen.com/) and [Directory of Open Access Journals](https://doaj.org/). If you do not have your own academic problem, you may use this one:
+There are various for profit databases held in subscriptions by the University Libraries. We reccomend those who has the privilege to try these. Carpentry is about open databases and open access. We have therefore chosen the databases below. Feel free to use other databases.
 
+- [Dag Hammarskjöld Library](https://www.un.org/en/library/page/databases)
+- [ScienceOpen.com](https://www.scienceopen.com/) 
+- [Directory of Open Access Journals](https://doaj.org/). 
+
+If you do not have your own academic problem, you may use this one:
 "Many people in the world live with water scarcity. How is this problem solved in varouis regions, and what has the scientific community suggested in previous research?"
 
-You can use other databases, but check the metadata before you decide. Try to downlowd at least 500 references directly to your new group. Find the export solution for the relevant database. We recommend the RIS format for Zotero. Open/ import the file in Zotero. Put the references in the group you made.
+Try to downlowd at least 500 references directly to your new group. Find the export solution for the relevant database. We recommend the RIS format for Zotero. Open/ import the file in Zotero. Put the references in the group you made.
 
 Look at your references, mark 20 of them, and use the function "find pdf". use "fn lock" to mark several references, for instance 10 --> right click --> Find available pdfs. This solution will work better it you are on a university campus with subscriptions to academic journals. If using it from the home office, it will import open access resources.
 
