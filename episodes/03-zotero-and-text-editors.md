@@ -10,7 +10,7 @@ url: https://www.lipsum.com/
 Save your file somewhere so that you know where to find it.
 
 **Storing your data in a good way**
-When working with text and files, it is important to know how and where to store them. Most universities offer protected storage drives at their networks. This makes students and reaearchers able to store their data in an adequate way. Often these storage places come with high quality backup. Familiarize yourself with the rcommendations of your home institution. Check out the available platforms of storage. You should know the difference between these storage platforms
+When working with text and files, it is important to know how and where to store them. Most universities offer protected storage drives at their networks. This makes students and reaearchers able to store their data in an adequate way. Often these storage places come with high quality backup. Familiarize yourself with the recommendations of your home institution. Check out the available platforms of storage. You should know the difference between these storage platforms
 - Private OneDrive
 - Institutional OneDrive
 - Office 365
