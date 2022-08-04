@@ -3,7 +3,8 @@ title: "03 Mapping your archive"
 teaching: 10
 exercises: 2
 ---
-**Downloading Z
+**Creating the overview through SR Accelerator**
+Now that we already have a big archive with literature on a specific research area, it will be useful to apply some tools for getting a qiuck overview of the material.  Go to the Zotero folder where you have the literature on the water management question, or the research question you chose. Go to the web page SR Accelerator and choose WordFreq from the left hand menu. Upload the .ris file that you made when you imported the references to your library. Do you see any unexpected terms in your data? Are there any terms that you would expect to have a greater frequency?
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
