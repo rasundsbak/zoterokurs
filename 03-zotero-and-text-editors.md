@@ -1,5 +1,5 @@
 ---
-title: "03 Zotero and text editors"
+title: "03 The academic writing process - Zotero and text editors"
 teaching: 10
 exercises: 2
 ---
