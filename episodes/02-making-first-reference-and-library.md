@@ -32,14 +32,14 @@ There are various for profit databases held in subscriptions by the University L
 
 - [Dag Hammarskjöld Library](https://www.un.org/en/library/page/databases)
 - [ScienceOpen.com](https://www.scienceopen.com/) 
-- [Directory of Open Access Journals](https://doaj.org/). 
+- [Directory of Open Access Journals](https://doaj.org/)
 
 If you do not have your own academic problem, you may use this one:
 "Many people in the world live with water scarcity. How is this problem solved in varouis regions, and what has the scientific community suggested in previous research?"
 
 Try to downlowd at least 500 references directly to your new group. Find the export solution for the relevant database. We recommend the RIS format for Zotero. Open/ import the file in Zotero. Put the references in the group you made.
 
-Look at your references, mark 20 of them, and use the function "find pdf". use "fn lock" to mark several references, for instance 10 --> right click --> Find available pdfs. This solution will work better it you are on a university campus with subscriptions to academic journals. If using it from the home office, it will import open access resources.
+Look at your references, mark 20 of them, and use the function "find pdf". You may use "fn lock" to mark several references, --> right click --> find available pdfs. This solution will work better it you are on a university campus with subscriptions to academic journals. If using it from the home office, it will import open access resources.
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
