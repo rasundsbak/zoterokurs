@@ -1,5 +1,5 @@
 ---
-title: "Using Zotero"
+title: "Zotero and markdown"
 teaching: 0
 exercises: 0
 ---
