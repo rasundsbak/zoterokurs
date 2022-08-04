@@ -20,6 +20,9 @@ When working with text and files, it is important to know how and where to store
 There are other storage places too, but the above are the most important.
 
 **File structure and file names**
+Your data should be organizes with folders and sub folders that make it easy to fing your data, even in the future, when you have stopped working with the project. Store versions and backup in an appropriate and orderly way. Use the right kind of filenames, where you avoid space bar and special characters. Rememver the dot means the file ending is coming, and avoid the wrong use of period in the file name.
+
+**Save your document**
 
 
 :::::::::::::::::::::::::::::::::::::: questions 
