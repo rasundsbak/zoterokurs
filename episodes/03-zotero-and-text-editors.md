@@ -3,6 +3,24 @@ title: "03 Zotero and text editors"
 teaching: 10
 exercises: 2
 ---
+**Using Zotero with a text editor**
+Open Word or your other text editor, and paste in example text from the Lorem ipsum generator.
+url: https://www.lipsum.com/
+
+Save your file somewhere so that you knowwhere to find it.
+
+**Storing your data in a good way**
+When working with text and files, it is important to know how and where to store them. Universities offer protected storage drives at their networks so that students and reaearchers may store their data in an adequate way. Familiarize yourself with the rcommendations of your home institution. Check out the available platforms of storage. You should know the difference between these storage platforms
+- Private OneDrive
+- Institutional OneDrive
+- Office 365
+- local harddrive c:
+- personal network storage on campus m:
+
+There are other storage places too, but the above are the most important.
+
+**File structure and file names**
+
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
