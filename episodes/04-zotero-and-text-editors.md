@@ -1,5 +1,5 @@
 ---
-title: "04 Zotero and text editors"
+title: "03 Zotero and text editors"
 teaching: 10
 exercises: 2
 ---
