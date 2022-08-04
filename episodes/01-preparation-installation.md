@@ -23,7 +23,7 @@ we ask that you report it to The Carpentries Code of Conduct Committee
 by completing [this form](https://goo.gl/forms/KoUfO53Za3apOuOK2).
 
 ## Zotero standalone, Zotero Connector Notepad ++ and Zutilo
-Visit Zotero.org and download the relevant Zotero desktop version and connector for your PC, Mac or Linux machine. We are also going to use Zutillo and SA Accelerator in order to get overview over our field of research.
+Visit Zotero.org and download the relevant Zotero desktop version and connector for your PC, Mac or Linux machine. We are going to use Zutillo add-on to Zotero and SA Accelerator in order to get overview over our field of research.
 
 Download the zutilo. xpi file from Zutilo's GitHub releases page. Then go to Tools->Add-ons in Zotero Standalone. Click on the gear button in the upper right area of the Add-ons Manager window that appears and choose "Install Add-on From File." Then select the downloaded zutilo. Note that this should not be done in Mozilla. Most other web browsers should work.
 
@@ -36,7 +36,12 @@ In this course we have an academic problem that is used for learning the method:
 However, feel free to use your own academic problem in episode 2. You must be able to easily find at least 500 references treating the chosen subject. We do this in order to get an overview over the literature on the chosen subject.
 
 **Check the functionality**
-After the installation. Check your usual text editor. For Word users: Do you see the tab for Zotero functionality somewhere to the right? If not, see below. Zotero supports the text editors Google Docs, Microsoft Word and Libre Office.
+After the installation. Check your usual text editor. For Word users: Do you see the tab for Zotero functionality somewhere to the right? If not, you may use googles solution:
+
+**Zotero tab does not appear in the Word Ribbon**
+Open the Templates and Add-ins window by going to File → Options → Add-ins, selecting “Word Add-ins” in the Manage drop-down at the bottom, and clicking “Go…”. Then, make sure Zotero.dotm is present and ticked.
+
+Zotero supports the text editors Google Docs, Microsoft Word and Libre Office.
 
 **Installing the Zotero Word Processor Plugins**
 Vitit this site: https://www.zotero.org/support/word_processor_plugin_installation
