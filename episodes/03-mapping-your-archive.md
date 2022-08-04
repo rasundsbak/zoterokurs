@@ -4,6 +4,7 @@ teaching: 10
 exercises: 2
 ---
 
+
 :::::::::::::::::::::::::::::::::::::: questions 
 
 - What is characteristic with open digital science?
@@ -12,7 +13,8 @@ exercises: 2
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Knowing how Zotero can ease cooperation in study groups or research groups.
+- organizing and mapping a large amount of references
+- knowing how Zotero can ease cooperation in study groups or research groups
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
