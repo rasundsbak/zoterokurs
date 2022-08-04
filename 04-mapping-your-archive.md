@@ -1,5 +1,5 @@
 ---
-title: "03 Mapping your archive"
+title: "04 Mapping your archive"
 teaching: 10
 exercises: 2
 ---
