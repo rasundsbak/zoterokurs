@@ -23,6 +23,7 @@ There are other storage places too, but the above are the most important.
 Your data should be organizes with folders and sub folders that make it easy to fing your data, even in the future, when you have stopped working with the project. Store versions and backup in an appropriate and orderly way. Use the right kind of filenames, where you avoid space bar and special characters. Rememver the dot means the file ending is coming, and avoid the wrong use of period in the file name.
 
 **Save your document**
+Save your document in a way that takes the above mentioned into account. Check that you have both Zotero and your text editor open. Experiment with taking in text references. Put in several text references. Make the bibliography. How do you take in page numbers to your references?
 
 
 :::::::::::::::::::::::::::::::::::::: questions 
