@@ -14,8 +14,8 @@ When working with text and files, it is important to know how and where to store
 - Private OneDrive
 - Institutional OneDrive
 - Office 365
-- local harddrive c:
-- personal network storage on campus m:
+- local harddrive (C:)
+- personal network storage on campus (M:)
 
 There are other storage places too, but the above are the most important.
 
