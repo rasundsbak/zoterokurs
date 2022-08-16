@@ -22,10 +22,10 @@ If you believe someone is violating the Code of Conduct,
 we ask that you report it to The Carpentries Code of Conduct Committee 
 by completing [this form](https://goo.gl/forms/KoUfO53Za3apOuOK2).
 
-## Zotero standalone, Zotero Connector Notepad ++ and Zutilo
+## Zotero, Zotero Connector, Notepad ++, Zutilo, Better Bibtex for Zotero, Better notes for Zotero
 Visit Zotero.org and download the relevant Zotero desktop version and connector for your PC, Mac or Linux machine. We are going to use Zutillo add-on to Zotero and SR Accelerator in order to get overview over our field of research.
 
-Download the zutilo. xpi file from Zutilo's GitHub releases page. Then go to Tools->Add-ons in Zotero Standalone. Click on the gear button in the upper right area of the Add-ons Manager window that appears and choose "Install Add-on From File." Then select the downloaded zutilo. Note that this should not be done in Mozilla. Most other web browsers should work.
+Download the zutilo. xpi file from Zutilo's GitHub releases page. Then go to Tools->Add-ons in Zotero Standalone. Click on the gear button in the upper right area of the Add-ons Manager window that appears and choose "Install Add-on From File." Then select the downloaded zutilo. Note that this should not be done in Mozilla. Most other web browsers should work. Do same procedure with Better notes for Zotero and Better bibtex for zotero.
 
 Download the [Notepad ++](https://notepad-plus-plus.org/) and check that it works.
 
