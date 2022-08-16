@@ -22,12 +22,12 @@ If you believe someone is violating the Code of Conduct,
 we ask that you report it to The Carpentries Code of Conduct Committee 
 by completing [this form](https://goo.gl/forms/KoUfO53Za3apOuOK2).
 
-## Zotero, Zotero Connector, Notepad ++, Zutilo, Better Bibtex for Zotero, Better notes for Zotero
+## Zotero, Zotero Connector, Zutilo, Better Bibtex for Zotero, Better notes for Zotero and text editing in R Cloud
 Visit Zotero.org and download the relevant Zotero desktop version and connector for your PC, Mac or Linux machine. We are going to use Zutillo add-on to Zotero and SR Accelerator in order to get overview over our field of research.
 
-Download the zutilo. xpi file from Zutilo's GitHub releases page. Then go to Tools->Add-ons in Zotero Standalone. Click on the gear button in the upper right area of the Add-ons Manager window that appears and choose "Install Add-on From File." Then select the downloaded zutilo. Note that this should not be done in Mozilla. Most other web browsers should work. Do same procedure with Better notes for Zotero and Better bibtex for zotero.
+Download the zutilo. xpi file from Zutilo's GitHub releases page. Then go to Tools->Add-ons in Zotero. Click on the gear button in the upper right area of the Add-ons Manager window that appears and choose "Install Add-on From File." Then select the downloaded zutilo. Note that this should not be done in Mozilla. Most other web browsers should work. Do same procedure with Better notes for Zotero and Better bibtex for zotero.
 
-Download the [Notepad ++](https://notepad-plus-plus.org/) and check that it works.
+You will need a google account, or a GitHub account in order to be able to use R Cloud. If you need digital privacy, you may dornload R and R Studio on your desktop instead. In this case, you do not have to lage a user id for login.
 
 **Academic preparation**
 In this course we have an academic problem that is used for learning the method: 
