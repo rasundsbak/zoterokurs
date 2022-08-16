@@ -27,7 +27,7 @@ Visit Zotero.org and download the relevant Zotero desktop version and connector 
 
 Download the zutilo. xpi file from Zutilo's GitHub releases page. Then go to Tools->Add-ons in Zotero. Click on the gear button in the upper right area of the Add-ons Manager window that appears and choose "Install Add-on From File." Then select the downloaded zutilo. Note that this should not be done in Mozilla. Most other web browsers should work. Do same procedure with Better notes for Zotero and Better bibtex for zotero.
 
-You will need a google account, or a GitHub account in order to be able to use R Cloud. If you need digital privacy, you may dornload R and R Studio on your desktop instead. In this case, you do not have to lage a user id for login.
+You will need a google account, or a GitHub account in order to be able to use R Cloud. If you need digital privacy, you may download R and R Studio to your desktop instead. In this case, you do not have to make a user id for login.
 
 **Academic preparation**
 In this course we have an academic problem that is used for learning the method: 
