@@ -6,7 +6,11 @@ exercises: 2
 **Creating the overview through SR Accelerator**
 Now that we already have a big archive with literature on a specific research area, it will be useful to apply some tools for getting a qiuck overview of the material.  Go to the Zotero folder where you have the literature on the water management question, or the research question you chose. Export the collection in an .ris file and put it somewhere in your folder locations so that you know how to find it again. Go to the web page SR Accelerator and choose WordFreq from the left hand menu. Upload the .ris file that you made. Do you see any unexpected terms in your data? Are there any terms that you would expect to have a greater frequency?
 
-**Filing
+**Making the folders talk**
+You may now go back to your archive and look for the possibility of making 
+
+Right click "my library" to the left, and make --> new saved search. Make a folder with 000 and the term as a name, like this 000Drought. See that the folder takes up all of the literature with the relevant term. then check the number and rename the folder so that the number before the term is right. The name of the folder should look something like this 040Drought, and current number of references containing the terms. 
+
 :::::::::::::::::::::::::::::::::::::: questions 
 
 - What is characteristic with open digital science?
