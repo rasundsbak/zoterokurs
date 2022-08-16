@@ -69,13 +69,24 @@ associated with the lessons. They appear in the "Instructor View"
 
 ## Challenge 1: Can you do it?
 
-What is the output of this command?
+You want to send your manuscript to a journal that tell you to follow these style: 
+Referansene skal følge Harvard Style of Referencing. Referansene i teksten skal være som følger ved
+henholdsvis en, to og flere forfattere: «…Meland (2010), Bårdsen og Nymoen (2011), Finstad mfl.
+(2002)…». Referanser i parentes skrives som følger: «… (Finstad mfl., 2002; Meland, 2010)…».
+g. Referanselisten skal ha overskriften REFERANSER og ha følgende format:
+Melberg, H. O. (2010). Animal spirit: Fargerik tomhet? Samfunnsøkonomen 64 (2), 4–10.
+Bårdsen, G. og R. Nymoen (2011). Innføring i økonometri. Fakbokforlaget, Bergen.
+Finstad, A., G. Haakonsen og K. Rypdal (2002). Utslipp til luft av dioksiner i Norge – Dokumentasjon av
+metode og resultater. Rapporter 2002/7, Statistisk sentralbyrå.
+
+How can you do that?
 
 ```r
 paste("This", "new", "lesson", "looks", "good")
 ```
 
-:::::::::::::::::::::::: solution 
+:::::::::::::::::::::::: Solution
+Take a copy of the document, in the copy go to "Unlink citations" in the Zotero menu, use the Find and Replace function in the text editor and replace the et al. with mfl., then correct the paranthesis, and fill in the Place of publication. It depend if you have used the APA style or Cite Them Right.Try different styles in Zotero "Document preferences".
 
 ## Output
  
