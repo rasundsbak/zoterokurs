@@ -33,7 +33,7 @@ You will need a google account, or a GitHub account in order to be able to use R
 In this course we have an academic problem that is used for learning the method: 
 "Many people in the world live with water scarcity. How is this problem solved in varouis regions, and what has the scientific community suggested in previous research?"
 
-However, feel free to use your own academic problem in episode 2. You must be able to easily find at least 500 references treating the chosen subject. We do this in order to get an overview over the literature on the chosen subject.
+However, feel free to use your own academic problem in episode 2. You must be able to easily find at least 500 references treating the chosen subject. We do this in order to simulate how to easily get an overview over the literature on the chosen subject.
 
 **Check the functionality**
 After the installation. Check your usual text editor. For Word users: Do you see the tab for Zotero functionality somewhere to the right? If not, you may use googles solution:
