@@ -4,7 +4,9 @@ teaching: 10
 exercises: 2
 ---
 **Using Zotero with a text editor**
-Open Word or your other text editor, and paste in example text from the Lorem ipsum generator.
+Open R-cloud when Zotero run. Log into Zotero to generate Zotero Web API https://www.zotero.org/settings/keys/new . Name this key for example Rmarkdown and generate key. Go to R-markdown an click on Tools, Rmarkdown, Citations, paste in the citation key from Zotero. Then go to Tools, Project options, Rmarkdown, select zotero libraries.
+
+Then copy and paste an example text from the Lorem ipsum generator.
 url: https://www.lipsum.com/
 
 Save your file somewhere so that you know where to find it.
