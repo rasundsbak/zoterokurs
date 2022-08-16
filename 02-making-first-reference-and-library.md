@@ -33,6 +33,8 @@ There are various for profit databases held in subscriptions by the University L
 - [Dag Hammarskjöld Library](https://www.un.org/en/library/page/databases)
 - [ScienceOpen.com](https://www.scienceopen.com/) 
 - [Directory of Open Access Journals](https://doaj.org/)
+- [SpringerLink](https://link.springer.com/)
+- [World Banks e-library](https://elibrary.worldbank.org/)
 
 If you do not have your own academic problem, you may use this one:
 "Many people in the world live with water scarcity. How is this problem solved in varouis regions, and what has the scientific community suggested in previous research?"
