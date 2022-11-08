@@ -1,5 +1,5 @@
 ---
-title: "Making the first manual reference and the first library"
+title: "Writing a paper"
 teaching: 10
 exercises: 2
 ---
