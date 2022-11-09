@@ -1,0 +1,86 @@
+#------------------------------------------------------------
+# Values for this lesson.
+#------------------------------------------------------------
+
+# Which carpentry is this (swc, dc, lc, or cp)?
+# swc: Software Carpentry
+# dc: Data Carpentry
+# lc: Library Carpentry
+# cp: Carpentries (to use for instructor traning for instance)
+carpentry: incubator
+
+# Overall title for pages.
+title: Zotero course
+
+# Date the lesson was created (this is empty by default)
+created: 2022-06-14
+
+# Comma-separated list of keywords for the lesson
+keywords: software, data, lesson, The Carpentries
+
+# Life cycle stage of the lesson
+# possible values: pre-alpha, alpha, beta, stable
+life_cycle: pre-alpha
+
+# License of the lesson
+license: CC-BY 4.0
+
+# Link to the source repository for this lesson
+source: https://github.com/carpentries/workbench-template-md
+
+# Default branch of your lesson
+branch: main
+
+# Who to contact if there are any issues
+contact: ragnhild.sundsbak@ub.uio.no
+
+# Navigation ------------------------------------------------
+# 
+# Use the following menu items to specify the order of
+# individual pages in each dropdown section. Leave blank to
+# include all pages in the folder.
+#
+# Example -------------
+# 
+# episodes:
+# - introduction.md
+# - first-steps.md
+#
+#
+# 
+# learners:
+# - setup.md
+# 
+# instructors:
+# - instructor-notes.md
+#
+# profiles:
+# - one-learner.md
+# - another-learner.md
+
+# Order of episodes in your lesson 
+# episodes: 
+ #   [Preparation and installation 30 minutes before start]()
+ #   [Welcome to workshop, code of conduct, practical information, curriculum and plan for the day]
+ #   [Introduction to Zotero, history, what Zotero can be used for, suitable for open science practices]
+ #   [Basic use of citation and referencing in some common text editors. Importing bibliographic data. Backup]
+ #   [Making your own database: Use of Zotero when performing searches in multiple databases/archives/catalogues]
+ #   Import into your own Group and organize in collections. Get overview over the literature of your subject.
+ #   [Deduplication basic and (advanced with R), or through databases]
+ #   [Annotation and social reading with Hypothesis]
+ #   [Set up student groups or research groups, administration and organisation]
+ #   [Advanced machine reading with saved searches, advanced search, organising with tags, colors, emoji]
+ #   [Use with Ipad, iphone, android]
+ #   [Connecting to Markdown, LaTeX, Overleaf, Obsidian, Google Docs, Libre Office]
+ #   [Special plugins: Zutilo, PDF translate, Better Notes for Zotero]
+
+
+# Information for Learners
+learners: 
+
+# Information for Instructors
+instructors: 
+
+# Learner Profiles
+profiles: 
+
