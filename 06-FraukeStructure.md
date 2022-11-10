@@ -19,6 +19,28 @@ exercises: 2
 
 ## Introduction
 
+## From e-mail
+
+Structure Zotero with Master- and PhD students:
+
+ 
+
+*	Refresher on academic referencing, why it's important to cite correctly, and basic citation formats
+*	Information on reference management software in general (what it can do and why you should use it)
+*	Choice of reference management software (i.e. the advantages of zotero, comparison to others)
+*	Using Zotero:
+
+	*	Basic workflow (browser button and word plugin)
+	*	Other outputs (citation styles, copy to clipboard, adjust in word, export formats, …)
+	*	Other inputs - single items (eg from doi, from file, manual, …)
+	*	Other inputs - multiple items (eg from database, drag and drop, …)
+	*	Organizing your library (notes, tags, folders, …)
+	*	Getting the most out of zotero (shared libraries, proxy settings, retraction watch, sync & storage, addons,  …)
+
+ 
+
+Suggest to put most of these except maybe the last point into the ‘basics’ for the first 3 hours, then we would need some structure for the afternoon part as well. Maybe we can merge that somehow with P‘s ideas to organize by activities, e.g. writing, reading, literature searches, etc.
+
 This is a lesson created via The Carpentries Workbench. It is written in
 [Pandoc-flavored Markdown](https://pandoc.org/MANUAL.txt) for static files and
 [R Markdown][r-markdown] for dynamic files that can render code into output. 
