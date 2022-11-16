@@ -1,3 +1,3 @@
 Ragnhild Sundsbak @rasundsbak
 Pål Magnus Lykkja @pallykkja
-Frauke Gerdes Rohden 
+Frauke Gerdes Rohden @fraukero
