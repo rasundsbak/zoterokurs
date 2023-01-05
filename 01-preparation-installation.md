@@ -23,17 +23,17 @@ we ask that you report it to The Carpentries Code of Conduct Committee
 by completing [this form](https://goo.gl/forms/KoUfO53Za3apOuOK2).
 
 ## Zotero, Zotero Connector, Zutilo, Better Bibtex for Zotero, Better notes for Zotero and text editing in R Cloud
-Visit Zotero.org and download the relevant Zotero desktop version and connector for your PC, Mac or Linux machine. We are going to use Zutillo add-on to Zotero and SR Accelerator in order to get an overview of our field of research.
+Go to Zotero.org and download the relevant Zotero desktop version and connector for your PC, Mac or Linux machine. We are going to use Zutillo add-on to Zotero and SR Accelerator in order to get an overview of our field of research.
 
-Download the zutilo. xpi file from Zutilo's GitHub releases page. Then go to Tools->Add-ons in Zotero. Click on the gear button in the upper right area of the Add-ons Manager window that appears and choose "Install Add-on From File." Then select the downloaded zutilo. Note that this should not be done in Mozilla. Most other web browsers should work. Do same procedure with Better notes for Zotero and Better bibtex for zotero.
+Download the zutilo. xpi file from Zutilo's GitHub releases page. Then go to Tools-> Add-ons in Zotero. Click on the gear button in the upper right area of the Add-ons Manager window and install the Add-on from the file. Then select the downloaded zutilo. Note that this should not be done in Mozilla. Most other web browsers should work. Do same procedure with Better notes for Zotero and Better bibtex for zotero.
 
-You will need a google account, or a GitHub account in order to be able to use R Cloud. If you need digital privacy, you may download R and R Studio to your desktop instead. In this case, you do not have to make a user id for login.
+You will need a google account, or a GitHub account in order to be able to use the cloud service of RStudio called Posit. If you need digital privacy, you may download R and R Studio to your desktop instead. In this case, you do not have to make a user id for login.
 
 **Academic preparation**
 In this course we have an academic problem that is used for learning the method: 
-"Many people in the world live with water scarcity. How is this problem solved in varouis regions, and what has the scientific community suggested in previous research?"
+"Water scarcity or floods are increasingly a problem during the anthropocene. How is this problem solved in varouis regions, and what has the scientific community suggested in previous research?"
 
-However, feel free to use your own academic problem in episode 2. You must be able to easily find at least 500 references treating the chosen subject. We do this in order to simulate how to easily get an overview over a relatively good search on the literature on the chosen subject.
+However, feel free to limit the scope of the problem, or use your own academic problem in episode 2. You must be able to easily find at least 500 references treating the chosen subject. We do this in order to simulate how to easily get an overview over a relatively good search on the literature on the chosen subject.
 
 **Check the functionality**
 After the installation. Check your usual text editor. For Word users: Do you see the tab for Zotero functionality somewhere to the right? If not, you may use googles solution:
