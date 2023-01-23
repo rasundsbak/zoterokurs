@@ -14,10 +14,9 @@ Format: Hardcover – Illustrated, May 2, 2017
 by Robert M. Sapolsky (Author)
 
 **Making a Library**
-Go to Zotero and klick New library--> New Group. This will send you to the Zotero cloud solution. Make your own username and password. Find an adeqate group name, and go back to the desktop to see how it now looks.
+Go to Zotero desktop and choose File --> New collection --> Name the collection
 
-**Syncing**
-Go to Edit--> Preferences --> Sync, and enter the data for your account. Check that the syncing works. You should now have a new group in your library.
+Make a "New library" New library--> This will send you to the Zotero cloud solution. Make your own username and password. Find an adeqate group name. Choose group type and settings, and save the settings. Go back to the desktop to see how it now looks. If you cannot see the group right away, try the sync option.
 
 **Download single articles**
 Download the following references to Zotero. Check that everything is downloaded correctly in the Zotero app, and then cite the source in the text editor. Make the bibliography. Note that the last one is a an open access book. Click on the PDF icon where Zotero icon normally are. Check the item in the zotero app. Dod you manage to get all of these into your library?
