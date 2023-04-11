@@ -61,6 +61,9 @@
     <loc>https://carpentries.github.io/workbench-template-md/08-set-up-research-groups.html</loc>
   </url>
   <url>
+    <loc>https://carpentries.github.io/workbench-template-md/404.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries.github.io/workbench-template-md/AUTHORS.html</loc>
   </url>
   <url>
@@ -137,6 +140,9 @@
   </url>
   <url>
     <loc>https://carpentries.github.io/workbench-template-md/instructor/08-set-up-research-groups.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/workbench-template-md/instructor/404.html</loc>
   </url>
   <url>
     <loc>https://carpentries.github.io/workbench-template-md/instructor/AUTHORS.html</loc>
